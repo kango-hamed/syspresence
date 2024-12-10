@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section class="contener-notifcation">
+    <div class="" id="messages-display"></div>
+    <div class="notifications-display" id="notifications-display">
+        {% if notifications%}
+        <div class="contener-head">
+            <button type="button" class="btn-messages">Tous les messages</button>
+            <button type="button" class="btn-messages">Boîte de réception</button>
+            <button type="button" class="btn-messages">Messages envoyés</button>
+            <button type="button" class="btn-messages">Messages archivés</button>
+            <button type="button" id="btn-new-message">Nouveau</button>
+        </div>
+        <div class="contener-body" id="messages">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nº</th>
+                        <th>Titre</th>
+                        <th>Expéditeur</th>
+                        <th>Date de Réception</th>
+                    </tr>
+                </thead>
+                <tbody class="message" id="cul-message">
+                    {% for notification in notifications %}
+                        <tr class="notification" data-id="{{ notification.id }}">
+                            <td>{{ notification.id }}</td>
+                            <td>{{ notification.title }}</td>
+                            <td>{{ notification.write_by }}</td>
+                            <td>{{ notification.created_at }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+            <p>pas de notifications</p>
+        {% endif %}
+    </div>
+    
+</section>
+{% endblock %}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52095400-3679-4896-a5a0-ecdfdbaac458" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/accounts/custumform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/accounts/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/Book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/Filter-Search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/House.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/Icon-gestion.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/Message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/SYSPRESENCE.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/icon-filiere.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/icon-grou.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/icon-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/static/images/settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/etudiant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/presences.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/rapports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/educateur/settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/enseignant/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/enseignant/etudiant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/enseignant/notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/parent/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/parent/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/templates/parent/notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/syspresence/presence/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pw8aYicO7ux82CHCqaBkUSN9RS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/pythonProject/syspresence/presence"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\syspresence\presence\templates" />
+      <recent name="D:\pythonProject\syspresence\accounts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\syspresence\presence" />
+      <recent name="D:\pythonProject\syspresence\presence\static\templates" />
+      <recent name="D:\pythonProject\syspresence\presence\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52095400-3679-4896-a5a0-ecdfdbaac458" name="Changes" comment="" />
+      <created>1733665842128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733665842128</updated>
+    </task>
+    <servers />
+  </component>
+</project>

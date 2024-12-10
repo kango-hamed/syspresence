@@ -1,0 +1,19 @@
+<div class="form-head">
+    <button type="button" id="btn-return">retour</button>
+</div>
+<div class="form-contener">
+    <form action="">
+        {% csrf_token %}
+        <input type="email" name="destinataire" id="destinataire" placeholder="Destinaire">
+        <input type="text" name="title" id="title" placeholder="">
+        <div name="message"
+             role="textbox"
+             contenteditable="true"
+             hidefocus = "true"
+             aria-multiline="true"
+             id="text-box">
+             corps
+        </div>
+        <input type="submit" name="envoyer" id="btn-envoyer" value="Envoyer">
+    </form>
+</div>
